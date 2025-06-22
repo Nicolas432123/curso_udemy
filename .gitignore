@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv_udemy/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas de datos
+data/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Archivos de logs y bases de datos locales
+*.log
+*.sqlite
