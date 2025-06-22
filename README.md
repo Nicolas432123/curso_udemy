@@ -55,3 +55,6 @@ curso-udemy/
 ## 🚀 Objetivo del repositorio
 
 Documentar de manera profesional mi avance en el curso y demostrar competencias en herramientas clave para la ingeniería de datos.
+
+
+🗂️ La carpeta `data/` contiene archivos de ejemplo y datasets utilizados durante el curso.
