@@ -12,8 +12,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Archivos y carpetas de datos
-data/
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
